@@ -6,7 +6,7 @@
     
 }
 body{
-    background-image: url(image/bg.jpg);
+    background-image: url(bg.jpg);
 
     color: antiquewhite;
 }
@@ -136,3 +136,4 @@ input{
     margin-right: 0px;
     
 }
+
